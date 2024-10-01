@@ -1,4 +1,4 @@
-# Multi Region Deployment
+# Multi-region deployment using OCI
 
 ### Overview
 
