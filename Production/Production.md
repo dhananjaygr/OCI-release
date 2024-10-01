@@ -14,6 +14,22 @@ Users can now deploy OCI resources in multiple regions. Currently, it is limited
 
 1. Log in to the CL portal and navigate to the required tenant (WIZ). On the left-hand side of the page, you will see the Template section.
 
-   ![](./img/0.png)    
+2. Navigate to the **Templates (1)** section in the left menu and click on the **edit (2)** button.
 
-2. 
+   ![](./img/01.png)
+
+3. Scroll down to the **Region (1)** section and choose the regions. Then click on the **Submit (2)** button.
+
+   ![](./img/02.png)
+
+4. Navigate to the **ODL (1)** section in the left menu and click on the **edit (2)** button.
+
+   ![](./img/03.png)
+
+5. After clicking on the edit button, choose the same regions that were updated at the template level.
+
+   ![](./img/04.png)
+
+6. Then click on the **Submit** button.
+
+   ![](./img/05.png)
