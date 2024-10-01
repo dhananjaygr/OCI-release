@@ -30,6 +30,6 @@ Users can now deploy OCI resources in multiple regions. Currently, it is limited
 
    ![](./img/04.png)
 
-6. Then click on the **Submit** button.
+6. Then scroll down and click on the **Submit** button.
 
    ![](./img/05.png)
