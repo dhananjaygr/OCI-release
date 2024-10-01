@@ -2,7 +2,7 @@
 
 ### Overview
 
-Users can now deploy OCI resources in multiple regions. Currently, it is limited to **us-ashburn-1, uk-london-1, and ap-hyderabad-1.**
+Users can now deploy OCI resources in multiple regions. Currently, it is limited to **us-ashburn-1, uk-london-1,** and **ap-hyderabad-1.**
 
 ### Prerequisites
 
