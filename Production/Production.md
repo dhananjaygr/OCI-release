@@ -33,3 +33,19 @@ Users can now deploy OCI resources in multiple regions. Currently, it is limited
 6. Then scroll down and click on the **Submit** button.
 
    ![](./img/05.png)
+
+### Testing scenario:
+
+Once the users are deployed, below are the outputs for all the regions with resources deployed in each region.
+
+- us-ashburn-1
+
+     ![](./img/06.png)
+
+-  uk-london-1
+
+     ![](./img/07.png)
+
+- ap-hyderabad-1
+
+     ![](./img/08.png)
